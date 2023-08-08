@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/tdoveeee" target="blank"><img src="https://img.shields.io/twitter/follow/tdoveeee?logo=twitter&style=for-the-badge" alt="tdoveeee" /></a> </p>
 
-- 🌱 I’m currently learning **React Native and Type-script**
+- 🌱 I’m currently learning **C# and Something else**
 
-- 🤝 I’m looking for help with **Three.js**
+- 🤝 I’m looking for help with **C#**
 
 - 👨‍💻 All of my projects are available at [comming soon....](comming soon....)
 
-- 📝 I regularly write articles on [comming soon....](comming soon....)
-
-- 💬 Ask me about **React, postgreSQL, node.js, express, sass**
+- 💬 Ask me about **React, postgreSQL, node.js, express, sass etc..**
 
 - 📫 How to reach me **marius.gjerd@outlook.com**
-
-- 📄 Know about my experiences [comming soon....](comming soon....)
 
 - ⚡ Fun fact **I have been a professional gamer**
 
