@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/tdoveeee" target="blank"><img src="https://img.shields.io/twitter/follow/tdoveeee?logo=twitter&style=for-the-badge" alt="tdoveeee" /></a> </p>
 
-- 🌱 I’m currently learning **C# and Something else**
+- 🌱 I’m currently working with **C# and Vue**
 
-- 🤝 I’m looking for help with **C#**
-
-- 👨‍💻 All of my projects are available at [comming soon....](comming soon....)
-
-- 💬 Ask me about **React, postgreSQL, node.js, express, sass etc..**
+- 💬 Ask me about **React, postgreSQL, node.js, sass, Vue etc..**
 
 - 📫 How to reach me **marius.gjerd@outlook.com**
 
